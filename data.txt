@@ -1,0 +1,61 @@
+Enter 'scan {location}' to start scanning{"__location": "scan myRoom", "JioFiber-Q1mgh": -56, "JioFiber-jZkWV": -76, "JioFiber-VyuQt": -82, "Arvind": -78}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -59, "JioFiber-jZkWV": -79, "Arvind": -68}
+{"__location": "scan myRoom", "JioFiber-jZkWV": -71, "JioFiber-Q1mgh": -55, "JioFiber-VyuQt": -81, "Arvind": -67}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -60, "JioFiber-jZkWV": -80, "JioFiber-VyuQt": -86, "Arvind": -72}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -60, "JioFiber-jZkWV": -80, "JioFiber-EtUN5": -89, "Arvind": -78}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -62, "JioFiber-jZkWV": -85, "Rohan": -82, "JioFiber-VyuQt": -85, "Arvind": -71}
+{"__location": "scan myRoom", "JioFiber-jZkWV": -75, "JioFiber-Q1mgh": -57, "JioFiber-VyuQt": -81, "Arvind": -77}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -56, "JioFiber-jZkWV": -78, "Rohan": -87, "JioFiber-VyuQt": -90, "Arvind": -82}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -61, "Rohan": -77, "JioFiber-VyuQt": -88, "Arvind": -70, "JioFiber-jZkWV": -75}
+{"__location": "scan myRoom", "JioFiber-Q1mgh": -70, "Arvind": -70, "JioFiber-VyuQt": -83, "JioFiber-jZkWV": -73}
+Enter 'scan {location}' to start scanning{"__location": "scan dining", "JioFiber-Q1mgh": -30, "JioFiber-jZkWV": -68, "JioFiber-u3B37": -85, "Akhil4G": -89, "JioFiber-VyuQt": -70, "Jio404_4G": -74, "Rnegi": -77, "Vatsal": -87, "Arvind A-808 2dot4 GHz": -91}
+{"__location": "scan dining", "JioFiber-Q1mgh": -31, "JioFiber-jZkWV": -70, "JioFiber-u3B37": -85, "JioFiber-VyuQt": -84, "JioFiber.303": -80, "Vatsal": -88}
+{"__location": "scan dining", "JioFiber-Q1mgh": -39, "JioFiber-VyuQt": -70, "JioFiber-u3B37": -78, "JioFiber-jZkWV": -67, "Rnegi": -80, "JioFiber.303": -80}
+{"__location": "scan dining", "JioFiber-Q1mgh": -55, "JioFiber-jZkWV": -62, "JioFiber-VyuQt": -69, "Rohan": -86, "JioFiber-f93sN": -87, "Jio404_4G": -76, "Arvind": -68, "Rnegi": -74, "JioFiber-mGfGB": -74}
+{"__location": "scan dining", "JioFiber-Q1mgh": -31, "JioFiber-jZkWV": -61, "Rohan": -86, "Jio404_4G": -74, "Akhil4G": -86, "JioFiber-VyuQt": -84}
+{"__location": "scan dining", "JioFiber-Q1mgh": -59, "JioFiber-jZkWV": -64, "JioFiber-u3B37": -86, "Jio404_4G": -66, "Akhil4G": -85, "JioFiber-VyuQt": -80, "JioFiber.303": -76}
+{"__location": "scan dining", "JioFiber-Q1mgh": -36, "JioFiber-VyuQt": -71, "JioFiber-yaG9h": -83, "JioFiber-jZkWV": -68, "Arvind": -83, "Rnegi": -83, "JioFiber.303": -81, "Vatsal": -89}
+{"__location": "scan dining", "JioFiber-Q1mgh": -30, "Jio404_4G": -70, "JioFiber-yaG9h": -86, "Arvind": -88, "Rnegi": -82, "JioFiber-VyuQt": -85, "JioFiber-jZkWV": -70, "JioFiber.303": -80}
+{"__location": "scan dining", "JioFiber-Q1mgh": -28, "JioFiber-jZkWV": -66, "A704-4G": -85, "Jio404_4G": -67, "JioFiber-u3B37": -86, "Arvind": -82, "JioFiber-VyuQt": -85, "JioFiber.303": -77, "Akhil4G": -87}
+{"__location": "scan dining", "JioFiber-Q1mgh": -27, "JioFiber-jZkWV": -65, "JioFiber-VyuQt": -86, "Akhil4G": -90, "Jio404_4G": -72, "Arvind": -85, "Vatsal": -88}
+Enter 'scan {location}' to start scanning{"__location": "scan kitchen", "JioFiber-Q1mgh": -56, "JioFiber-jZkWV": -81, "Jio404_4G": -86, "JioFiber-VyuQt": -83, "Rnegi": -84}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -52, "JioFiber-jZkWV": -61, "Jio404_4G": -89, "Arvind": -88, "Srishti": -88}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -57, "JioFiber-jZkWV": -68, "bisht_airtelfiber": -91, "JioFiber-VyuQt": -82}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -61, "JioFiber-jZkWV": -65, "JioFiber-VyuQt": -81, "Rnegi": -91, "Arvind": -88}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -59, "JioFiber-jZkWV": -82, "JioFiber-VyuQt": -87, "JioFiber.303": -85}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -40, "JioFiber-jZkWV": -72, "Rnegi": -87, "JioFiber.303": -93, "JioFiber-VyuQt": -83}
+{"__location": "scan kitchen", "JioFiber-VyuQt": -90, "JioFiber-jZkWV": -77, "JioFiber-Q1mgh": -60}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -54, "JioFiber-jZkWV": -76, "JioFiber-VyuQt": -81, "Srishti": -90}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -50, "JioFiber-jZkWV": -69, "JioFiber-VyuQt": -84, "Arvind": -83, "JioFiber.303": -81}
+{"__location": "scan kitchen", "JioFiber-Q1mgh": -42, "JioFiber-jZkWV": -62, "JioFiber-VyuQt": -75}
+Enter 'scan {location}' to start scanning{"__location": "scan study", "JioFiber-jZkWV": -64, "JioFiber-Q1mgh": -74, "Jio404_4G": -79, "JioFiber-VyuQt": -86, "JioFiber-hPapA": -85}
+{"__location": "scan study", "JioFiber-jZkWV": -74, "JioFiber-Q1mgh": -61, "DOST": -84, "Rohan": -84}
+{"__location": "scan study", "JioFiber-Q1mgh": -68, "JioFiber-jZkWV": -71, "Rnegi": -83, "JioFiber-VyuQt": -82}
+{"__location": "scan study", "JioFiber-Q1mgh": -68, "JioFiber-jZkWV": -68, "JioFiber-VyuQt": -79, "Rohan": -80, "Rnegi": -82}
+{"__location": "scan study", "JioFiber-Q1mgh": -66, "JioFiber-VyuQt": -82, "JioFiber-jZkWV": -70, "JioFiber-hT3aA": -88, "JioFiber-yaG9h": -83}
+{"__location": "scan study", "JioFiber-Q1mgh": -64, "JioFiber-jZkWV": -68, "JioFiber-VyuQt": -77, "JioFiber-yaG9h": -80, "Rnegi": -86, "JioFiber-hT3aA": -88}
+{"__location": "scan study", "JioFiber-Q1mgh": -69, "JioFiber-jZkWV": -76, "JioFiber-hPapA": -84, "JioFiber-VyuQt": -86, "Rnegi": -83}
+{"__location": "scan study", "JioFiber-jZkWV": -70, "JioFiber-Q1mgh": -71, "JioFiber-VyuQt": -86}
+{"__location": "scan study", "JioFiber-jZkWV": -68, "JioFiber-Q1mgh": -71, "Rnegi": -84}
+{"__location": "scan study", "JioFiber-Q1mgh": -68, "JioFiber-hPapA": -85, "JioFiber-jZkWV": -71}
+Enter 'scan {location}' to start scanning{"__location": "scan drawing", "JioFiber-Q1mgh": -64, "A704-4G": -87, "JioFiber-jZkWV": -44, "Jio404_4G": -75}
+{"__location": "scan drawing", "JioFiber-jZkWV": -57, "JioFiber-Q1mgh": -60, "A704-4G": -89, "Jio404_4G": -77, "Srishti": -92}
+{"__location": "scan drawing", "JioFiber-jZkWV": -59, "JioFiber-Q1mgh": -65, "JioFiber 112": -83, "Srishti": -83}
+{"__location": "scan drawing", "JioFiber-jZkWV": -55, "JioFiber-Q1mgh": -67, "veda": -89, "JioFiber-yaG9h": -86, "Aditya911": -88, "Srishti": -87}
+{"__location": "scan drawing", "JioFiber-Q1mgh": -64, "JioFiber-jZkWV": -69, "Akhil4G": -90, "Jio404_4G": -75}
+{"__location": "scan drawing", "JioFiber-Q1mgh": -58, "JioFiber-jZkWV": -55, "Jio404_4G": -78}
+{"__location": "scan drawing", "JioFiber-jZkWV": -66, "A704-4G": -87, "JioFiber 112": -91, "JioFiber-Q1mgh": -65, "JioFiber-VyuQt": -89, "Jio404_4G": -71, "Vatsal": -93}
+{"__location": "scan drawing", "JioFiber-jZkWV": -55, "JioFiber-Q1mgh": -63, "JioFiber 112": -88, "Srishti": -90, "Vatsal": -87}
+{"__location": "scan drawing", "JioFiber-Q1mgh": -58, "JioFiber-jZkWV": -61, "Jio404_4G": -74, "A704-4G": -85, "JioFiber-EtUN5": -86}
+{"__location": "scan drawing", "JioFiber-Q1mgh": -55, "JioFiber-jZkWV": -59, "Jio404_4G": -71, "A704-4G": -88, "Aahan": -93, "JioFiber-EtUN5": -91, "Vatsal": -91}
+Enter 'scan {location}' to start scanning{"__location": "scan parents", "JioFiber-Q1mgh": -66, "Arvind": -85, "JioFiber-jZkWV": -79}
+{"__location": "scan parents", "JioFiber-Q1mgh": -79, "Arvind": -82, "JioFiber-jZkWV": -81, "Anshul": -85}
+{"__location": "scan parents", "JioFiber-jZkWV": -82, "Arvind": -80, "JioFiber-Q1mgh": -72, "JioVarun": -89}
+{"__location": "scan parents", "JioFiber-Q1mgh": -69, "JioFiber-jZkWV": -85, "SRDJS": -85, "JioVarun": -86}
+{"__location": "scan parents", "JioFiber-Q1mgh": -78, "Arvind": -88, "JioFiber-EtUN5": -86}
+{"__location": "scan parents", "JioFiber-Q1mgh": -75, "Spy Hacker": -88, "Rohan": -85, "Arvind": -86}
+{"__location": "scan parents", "JioFiber-Q1mgh": -72, "Bansal": -83, "Arvind": -85, "JioVarun": -86}
+{"__location": "scan parents", "JioFiber-Q1mgh": -79, "Rohan": -87}
+{"__location": "scan parents", "JioFiber-Q1mgh": -70, "JioFiber 112": -88, "JioFiber-jZkWV": -88, "Arvind": -81}
+{"__location": "scan parents", "JioFiber-Q1mgh": -66, "Rohan": -81}
+Enter 'scan {location}' to start scanning
